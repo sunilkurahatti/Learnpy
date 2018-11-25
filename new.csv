@@ -1,0 +1,56 @@
+Name,Department,Manager,Salary
+Robin Hood,,,200
+Arsene Wenger,Bar,Friar Tuck,50
+Friar Tuck,Foo,Robin Hood,100
+Little John,Foo,Robin Hood,100
+Sam Allardyce,,,250
+Dimi Berbatov,Foo,Little John,50
+Name,Department,Manager,Salary
+Robin Hood,,,200
+Arsene Wenger,Bar,Friar Tuck,50
+Friar Tuck,Foo,Robin Hood,100
+Little John,Foo,Robin Hood,100
+Sam Allardyce,,,250
+Dimi Berbatov,Foo,Little John,50
+Name|Department|Manager|Salary
+Robin Hood|||200
+Arsene Wenger|Bar|Friar Tuck|50
+Friar Tuck|Foo|Robin Hood|100
+Little John|Foo|Robin Hood|100
+Sam Allardyce|||250
+Dimi Berbatov|Foo|Little John|50
+Name|Department|Manager|Salary
+Robin Hood|||200
+Arsene Wenger|Bar|Friar Tuck|50
+Friar Tuck|Foo|Robin Hood|100
+Little John|Foo|Robin Hood|100
+Sam Allardyce|||250
+Dimi Berbatov|Foo|Little John|50
+S|a|l|a|r|y
+2|0|0
+5|0
+1|0|0
+1|0|0
+2|5|0
+5|0
+Name|Department|Manager|Salary
+Robin Hood|||200
+Arsene Wenger|Bar|Friar Tuck|50
+Friar Tuck|Foo|Robin Hood|100
+Little John|Foo|Robin Hood|100
+Sam Allardyce|||250
+Dimi Berbatov|Foo|Little John|50
+Name|Department|Manager|Salary
+Robin Hood|||200
+Arsene Wenger|Bar|Friar Tuck|50
+Friar Tuck|Foo|Robin Hood|100
+Little John|Foo|Robin Hood|100
+Sam Allardyce|||250
+Dimi Berbatov|Foo|Little John|50
+Name|Department|Manager|Salary
+Robin Hood|||200
+Arsene Wenger|Bar|Friar Tuck|50
+Friar Tuck|Foo|Robin Hood|100
+Little John|Foo|Robin Hood|100
+Sam Allardyce|||250
+Dimi Berbatov|Foo|Little John|50
